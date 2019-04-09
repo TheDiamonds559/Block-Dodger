@@ -1,0 +1,14 @@
+body{
+    background: #202028;
+    color: #ffffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+canvas{
+    border: 10px #ffffff;
+    align-self: center;
+}
+
+div{
+    align-self: center;
+}
